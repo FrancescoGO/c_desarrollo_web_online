@@ -22,7 +22,7 @@
 * Márgenes
 * Modelo de Caja
 * Display
-* Flexblox
+* Flexbox
 * Alineación de elementos
 * Detalles del Curso en general.
 
